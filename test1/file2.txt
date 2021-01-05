@@ -4,5 +4,5 @@ Welcome to AWS C9!
 
 Elastic Cloud Compute
 
-Cloud Formation.
+Cloud Trail, Lambda
 <>
